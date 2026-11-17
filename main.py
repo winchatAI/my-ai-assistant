@@ -31,3 +31,5 @@ while True:
 
     if found == False:
         print("小AI：我的知识库暂时没有这个答案。")
+
+# 我的AI助手正在持续升级
